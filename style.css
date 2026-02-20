@@ -1,0 +1,12 @@
+body{
+text-align:center;
+font-family:Arial;
+}
+
+.order-btn{
+background-color:green;
+color:white;
+padding:10px 20px;
+text-decoration:none;
+border-radius:5px;
+}
